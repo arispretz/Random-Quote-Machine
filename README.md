@@ -1,6 +1,6 @@
 # Random-Quote-Machine
 
-This is one of my projects in the way to achieve "Front End Development Libraries" certification at freeCodeCamp.org.
+This is one of my projects in the way to achieve "Front End Development Libraries" certification at freeCodeCamp.org. In this project I used jQuery to enhance its view.
 
 User Story #1: I can see a wrapper element with a corresponding id="quote-box".
 
