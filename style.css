@@ -51,7 +51,7 @@ h1 {
   justify-content: center;
   text-align: justify;
   font-weight: bold;
-  font-family: san-serif, times new roman;
+  font-family: sans-serif, times new roman;
   font-size: 32px;
   width: 85%;
   height: 30%;
@@ -63,7 +63,7 @@ h1 {
   justify-content: end;
   text-align: right;
   font-weight: italic;
-  font-family: san-serif, times new roman;
+  font-family: sans-serif, times new roman;
   font-size: 20px;
   width: 20%;
   height: 20%;
@@ -92,14 +92,11 @@ footer {
   justify-content: center;
   text-align: center;
   margin: auto;
+  position: fixed;
+  margin-top: 700px;
 }
 
-#footer {
-  background-color: white;
-  color: purple;
-  border: none;
+a {
   text-decoration: none;
-  padding: 5px;
-  border-radius: 50px;
-  justify-content: center;
+  font-style: none;
 }
